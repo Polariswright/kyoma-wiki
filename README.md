@@ -3,7 +3,7 @@
 <h2>1.1 Sobre o Projeto</h2>
 <p>Essa Wiki foi criada com o intuito de conter todas as informações sobre o RPG Kyoma contendo informações tiradas das sessões do próprio rpg ou de conversas entre os jogadores e o mestre. Também foi desenvolvido com o propósito de um projeto de portfólio e treino para colocar meus conhecimentos em diversas tecnologias que já tinha conhecimento prático prévio ou não. O site irá sofrer atualizações constantes nos próximos meses até o final do RPG em si, ou até quando durar as informações coletadas. 
  </p>
- <p>Isso é um trabalho de Jogador pra Jogador. Não possui intuito lucrativos e por ser um projeto de teste e de muito, muito experimento, está sujeito a diversas alterações e modificações, utilizando mais ou menos frameworks do que o previsto.</p>
+ <p>Isso é um trabalho de Jogador pra Jogador. Não possui intuito lucrativo e por ser um projeto de teste e de muito, muito experimento, está sujeito a diversas alterações e modificações, utilizando mais ou menos frameworks do que o previsto.</p>
  
  <h2>1.2 Regras</h2>
  <p>A Wiki de Kyoma é lançada pela MIT license, portanto o código será completamente aberto, de qualquer forma, serão apenas aceitas PRs de:</p>
