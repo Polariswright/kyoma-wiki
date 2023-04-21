@@ -38,4 +38,9 @@
  
   </ul>
    <h2>1.4 Atualizações</h2>
-  <p>Como mencionado no tópico 1.1, o projeto irá possuir atualizações constantes de acordo com o progresso do rpg e do aprendizado do desenvolvedor do projeto, mas o cronograma <b>inicial  </b>das atualizações serão semanalmente, especificamente nas sextas ou sábados. E todas as atualizações sairão com uma pequena documentação atestando tudo que foi modificado, ou será dedicado parte desse repositório para tais informações.</p> 
+  <p>Como mencionado no tópico 1.1, o projeto irá possuir atualizações constantes de acordo com o progresso do rpg e do aprendizado do desenvolvedor do projeto, mas o cronograma <b>inicial  </b>das atualizações serão semanalmente, especificamente nas sextas ou sábados. E todas as atualizações sairão com uma pequena documentação atestando tudo que foi modificado, ou será dedicado parte desse repositório para tais informações.</p>
+  
+  
+   <h2>1.5 Contribuidores</h2>
+  <p> - Aliporis</p>
+  <p> - Angellek</p>
